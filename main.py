@@ -3,7 +3,6 @@ import re
 
 import googleapiclient.discovery
 import pandas as pd
-import xlwt
 from urllib.parse import urlparse,parse_qs
 
 from googleapiclient.errors import HttpError
